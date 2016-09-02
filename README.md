@@ -1,0 +1,1 @@
+# xshell-solarized-dark
